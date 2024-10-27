@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Wordclock - Real Time Clock")
-		(date "2024-10-21")
+		(date "2024-10-27")
 		(rev "A")
 		(company "ElektroNik Zoller")
 		(comment 1 "Nikolai Zoller")
@@ -1760,7 +1760,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "37104cfe-b42f-4f82-b218-2f8fe9f04a5c")
-		(property "Reference" "#PWR0413"
+		(property "Reference" "#PWR0415"
 			(at 190.5 99.06 0)
 			(effects
 				(font
@@ -1810,7 +1810,7 @@
 		(instances
 			(project "ESP-Wordclock"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e/ec66bd8a-ab18-419c-8a8f-29e1d0925890"
-					(reference "#PWR0413")
+					(reference "#PWR0415")
 					(unit 1)
 				)
 			)
@@ -1826,7 +1826,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3ffcc1cc-64ef-438d-8f26-dc9cd174fc60")
-		(property "Reference" "#PWR0410"
+		(property "Reference" "#PWR0412"
 			(at 165.1 175.26 0)
 			(effects
 				(font
@@ -1876,7 +1876,7 @@
 		(instances
 			(project "ESP-Wordclock"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e/ec66bd8a-ab18-419c-8a8f-29e1d0925890"
-					(reference "#PWR0410")
+					(reference "#PWR0412")
 					(unit 1)
 				)
 			)
@@ -2034,7 +2034,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "47c2444f-1407-4c2e-8120-0ad7f9e81638")
-		(property "Reference" "#PWR0415"
+		(property "Reference" "#PWR0409"
 			(at 146.05 72.39 0)
 			(effects
 				(font
@@ -2084,7 +2084,7 @@
 		(instances
 			(project "ESP-Wordclock"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e/ec66bd8a-ab18-419c-8a8f-29e1d0925890"
-					(reference "#PWR0415")
+					(reference "#PWR0409")
 					(unit 1)
 				)
 			)
@@ -2302,7 +2302,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "652bb650-456e-4bf0-a6ee-d7c0996c4693")
-		(property "Reference" "#PWR0408"
+		(property "Reference" "#PWR0410"
 			(at 152.4 175.26 0)
 			(effects
 				(font
@@ -2352,7 +2352,7 @@
 		(instances
 			(project "ESP-Wordclock"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e/ec66bd8a-ab18-419c-8a8f-29e1d0925890"
-					(reference "#PWR0408")
+					(reference "#PWR0410")
 					(unit 1)
 				)
 			)
@@ -2368,7 +2368,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "663a9418-bd4a-4a76-8de4-b52bb709da1c")
-		(property "Reference" "#PWR0409"
+		(property "Reference" "#PWR0411"
 			(at 152.4 190.5 0)
 			(effects
 				(font
@@ -2418,7 +2418,7 @@
 		(instances
 			(project "ESP-Wordclock"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e/ec66bd8a-ab18-419c-8a8f-29e1d0925890"
-					(reference "#PWR0409")
+					(reference "#PWR0411")
 					(unit 1)
 				)
 			)
@@ -2434,7 +2434,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "7931f1dc-9d4c-4d4f-96af-6ac061572f7c")
-		(property "Reference" "R402"
+		(property "Reference" "R403"
 			(at 148.59 73.6599 0)
 			(effects
 				(font
@@ -2560,7 +2560,7 @@
 		(instances
 			(project "ESP-Wordclock"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e/ec66bd8a-ab18-419c-8a8f-29e1d0925890"
-					(reference "R402")
+					(reference "R403")
 					(unit 1)
 				)
 			)
@@ -2576,7 +2576,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7d0f27e6-f3d5-410d-a88f-be7b2f933450")
-		(property "Reference" "#PWR0411"
+		(property "Reference" "#PWR0413"
 			(at 165.1 190.5 0)
 			(effects
 				(font
@@ -2626,7 +2626,7 @@
 		(instances
 			(project "ESP-Wordclock"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e/ec66bd8a-ab18-419c-8a8f-29e1d0925890"
-					(reference "#PWR0411")
+					(reference "#PWR0413")
 					(unit 1)
 				)
 			)
@@ -2778,7 +2778,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "96e03dd8-904a-4a61-963d-680edbd0906f")
-		(property "Reference" "R401"
+		(property "Reference" "R402"
 			(at 135.89 73.6599 0)
 			(effects
 				(font
@@ -2904,7 +2904,7 @@
 		(instances
 			(project ""
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e/ec66bd8a-ab18-419c-8a8f-29e1d0925890"
-					(reference "R401")
+					(reference "R402")
 					(unit 1)
 				)
 			)
@@ -3051,7 +3051,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "c1b72efa-062a-44b4-9407-4c253978d146")
-		(property "Reference" "R403"
+		(property "Reference" "R401"
 			(at 85.598 90.17 90)
 			(effects
 				(font
@@ -3177,7 +3177,7 @@
 		(instances
 			(project "ESP-Wordclock"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e/ec66bd8a-ab18-419c-8a8f-29e1d0925890"
-					(reference "R403")
+					(reference "R401")
 					(unit 1)
 				)
 			)
@@ -3519,7 +3519,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e9c23ae8-258c-493a-8a16-40bdf3eaa7c3")
-		(property "Reference" "#PWR0414"
+		(property "Reference" "#PWR0408"
 			(at 133.35 72.39 0)
 			(effects
 				(font
@@ -3569,7 +3569,7 @@
 		(instances
 			(project "ESP-Wordclock"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e/ec66bd8a-ab18-419c-8a8f-29e1d0925890"
-					(reference "#PWR0414")
+					(reference "#PWR0408")
 					(unit 1)
 				)
 			)
@@ -3585,7 +3585,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "edf66b7e-77b1-4a49-8c8f-de3da773293e")
-		(property "Reference" "#PWR0412"
+		(property "Reference" "#PWR0414"
 			(at 190.5 83.82 0)
 			(effects
 				(font
@@ -3635,7 +3635,7 @@
 		(instances
 			(project "ESP-Wordclock"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e/ec66bd8a-ab18-419c-8a8f-29e1d0925890"
-					(reference "#PWR0412")
+					(reference "#PWR0414")
 					(unit 1)
 				)
 			)
