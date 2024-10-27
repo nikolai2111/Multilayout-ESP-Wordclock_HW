@@ -735,7 +735,7 @@
 		(instances
 			(project "ESP-Wordclock"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
-					(page "2")
+					(page "3")
 				)
 			)
 		)
@@ -813,7 +813,7 @@
 		(instances
 			(project "ESP-Wordclock"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
-					(page "3")
+					(page "2")
 				)
 			)
 		)
