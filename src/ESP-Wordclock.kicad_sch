@@ -478,7 +478,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 166.878 116.84 90)
 			(effects
 				(font
@@ -505,7 +505,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "-"
 			(at 165.1 116.84 0)
 			(effects
 				(font
@@ -514,7 +514,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." ""
+		(property "Manufacturer Part no." "-"
 			(at 165.1 116.84 0)
 			(effects
 				(font
@@ -523,7 +523,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor 1" ""
+		(property "Vendor 1" "Digikey"
 			(at 165.1 116.84 0)
 			(effects
 				(font
@@ -532,7 +532,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor 1 Part no." ""
+		(property "Vendor 1 Part no." "311-0.0ARCT-ND"
 			(at 165.1 116.84 0)
 			(effects
 				(font
@@ -541,7 +541,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor 2" ""
+		(property "Vendor 2" "LCSC"
 			(at 165.1 116.84 0)
 			(effects
 				(font
