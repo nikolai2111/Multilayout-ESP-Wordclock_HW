@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Wordclock - LED Row with 11 pcs.")
-		(date "2024-10-27")
+		(date "2024-10-29")
 		(rev "A")
 		(company "ElektroNik Zoller")
 		(comment 1 "Nikolai Zoller")
@@ -1774,7 +1774,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "-"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 165.1 177.8 0)
 			(effects
 				(font
@@ -1783,7 +1783,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "-"
+		(property "Manufacturer Part no." "CL21B104KBCNFNC"
 			(at 165.1 177.8 0)
 			(effects
 				(font
@@ -1811,6 +1811,15 @@
 			)
 		)
 		(property "Vendor 2" "LCSC"
+			(at 165.1 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2 Part no." "C318718"
 			(at 165.1 177.8 0)
 			(effects
 				(font
@@ -2156,7 +2165,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "-"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 114.3 177.8 0)
 			(effects
 				(font
@@ -2165,7 +2174,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "-"
+		(property "Manufacturer Part no." "CL21B104KBCNFNC"
 			(at 114.3 177.8 0)
 			(effects
 				(font
@@ -2193,6 +2202,15 @@
 			)
 		)
 		(property "Vendor 2" "LCSC"
+			(at 114.3 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2 Part no." "C318718"
 			(at 114.3 177.8 0)
 			(effects
 				(font
@@ -3327,7 +3345,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "SparkFun Electronics"
+		(property "Manufacturer" "-"
 			(at 101.6 88.9 0)
 			(effects
 				(font
@@ -3336,7 +3354,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "COM-16347"
+		(property "Manufacturer Part no." "WS2812B"
 			(at 101.6 88.9 0)
 			(effects
 				(font
@@ -3372,7 +3390,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor 2 Part no." "C114586"
+		(property "Vendor 2 Part no." "C22461793"
 			(at 101.6 88.9 0)
 			(effects
 				(font
@@ -3844,7 +3862,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "SparkFun Electronics"
+		(property "Manufacturer" "-"
 			(at 152.4 88.9 0)
 			(effects
 				(font
@@ -3853,7 +3871,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "COM-16347"
+		(property "Manufacturer Part no." "WS2812B"
 			(at 152.4 88.9 0)
 			(effects
 				(font
@@ -3889,7 +3907,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor 2 Part no." "C114586"
+		(property "Vendor 2 Part no." "C22461793"
 			(at 152.4 88.9 0)
 			(effects
 				(font
@@ -4286,7 +4304,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "-"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 88.9 177.8 0)
 			(effects
 				(font
@@ -4295,7 +4313,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "-"
+		(property "Manufacturer Part no." "CL21B104KBCNFNC"
 			(at 88.9 177.8 0)
 			(effects
 				(font
@@ -4323,6 +4341,15 @@
 			)
 		)
 		(property "Vendor 2" "LCSC"
+			(at 88.9 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2 Part no." "C318718"
 			(at 88.9 177.8 0)
 			(effects
 				(font
@@ -4464,7 +4491,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "-"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 76.2 177.8 0)
 			(effects
 				(font
@@ -4473,7 +4500,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "-"
+		(property "Manufacturer Part no." "CL21B104KBCNFNC"
 			(at 76.2 177.8 0)
 			(effects
 				(font
@@ -4501,6 +4528,15 @@
 			)
 		)
 		(property "Vendor 2" "LCSC"
+			(at 76.2 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2 Part no." "C318718"
 			(at 76.2 177.8 0)
 			(effects
 				(font
@@ -4948,7 +4984,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "-"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 127 177.8 0)
 			(effects
 				(font
@@ -4957,7 +4993,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "-"
+		(property "Manufacturer Part no." "CL21B104KBCNFNC"
 			(at 127 177.8 0)
 			(effects
 				(font
@@ -4985,6 +5021,15 @@
 			)
 		)
 		(property "Vendor 2" "LCSC"
+			(at 127 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2 Part no." "C318718"
 			(at 127 177.8 0)
 			(effects
 				(font
@@ -5507,7 +5552,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "SparkFun Electronics"
+		(property "Manufacturer" "-"
 			(at 127 50.8 0)
 			(effects
 				(font
@@ -5516,7 +5561,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "COM-16347"
+		(property "Manufacturer Part no." "WS2812B"
 			(at 127 50.8 0)
 			(effects
 				(font
@@ -5552,7 +5597,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor 2 Part no." "C114586"
+		(property "Vendor 2 Part no." "C22461793"
 			(at 127 50.8 0)
 			(effects
 				(font
@@ -6024,7 +6069,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "SparkFun Electronics"
+		(property "Manufacturer" "-"
 			(at 127 88.9 0)
 			(effects
 				(font
@@ -6033,7 +6078,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "COM-16347"
+		(property "Manufacturer Part no." "WS2812B"
 			(at 127 88.9 0)
 			(effects
 				(font
@@ -6069,7 +6114,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor 2 Part no." "C114586"
+		(property "Vendor 2 Part no." "C22461793"
 			(at 127 88.9 0)
 			(effects
 				(font
@@ -6235,7 +6280,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "SparkFun Electronics"
+		(property "Manufacturer" "-"
 			(at 152.4 127 0)
 			(effects
 				(font
@@ -6244,7 +6289,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "COM-16347"
+		(property "Manufacturer Part no." "WS2812B"
 			(at 152.4 127 0)
 			(effects
 				(font
@@ -6280,7 +6325,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor 2 Part no." "C114586"
+		(property "Vendor 2 Part no." "C22461793"
 			(at 152.4 127 0)
 			(effects
 				(font
@@ -6446,7 +6491,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "SparkFun Electronics"
+		(property "Manufacturer" "-"
 			(at 177.8 88.9 0)
 			(effects
 				(font
@@ -6455,7 +6500,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "COM-16347"
+		(property "Manufacturer Part no." "WS2812B"
 			(at 177.8 88.9 0)
 			(effects
 				(font
@@ -6491,7 +6536,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor 2 Part no." "C114586"
+		(property "Vendor 2 Part no." "C22461793"
 			(at 177.8 88.9 0)
 			(effects
 				(font
@@ -6684,7 +6729,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "-"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 63.5 177.8 0)
 			(effects
 				(font
@@ -6693,7 +6738,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "-"
+		(property "Manufacturer Part no." "CL21B104KBCNFNC"
 			(at 63.5 177.8 0)
 			(effects
 				(font
@@ -6721,6 +6766,15 @@
 			)
 		)
 		(property "Vendor 2" "LCSC"
+			(at 63.5 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2 Part no." "C318718"
 			(at 63.5 177.8 0)
 			(effects
 				(font
@@ -6937,7 +6991,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "SparkFun Electronics"
+		(property "Manufacturer" "-"
 			(at 152.4 50.8 0)
 			(effects
 				(font
@@ -6946,7 +7000,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "COM-16347"
+		(property "Manufacturer Part no." "WS2812B"
 			(at 152.4 50.8 0)
 			(effects
 				(font
@@ -6982,7 +7036,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor 2 Part no." "C114586"
+		(property "Vendor 2 Part no." "C22461793"
 			(at 152.4 50.8 0)
 			(effects
 				(font
@@ -7277,7 +7331,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "-"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 101.6 177.8 0)
 			(effects
 				(font
@@ -7286,7 +7340,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "-"
+		(property "Manufacturer Part no." "CL21B104KBCNFNC"
 			(at 101.6 177.8 0)
 			(effects
 				(font
@@ -7314,6 +7368,15 @@
 			)
 		)
 		(property "Vendor 2" "LCSC"
+			(at 101.6 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2 Part no." "C318718"
 			(at 101.6 177.8 0)
 			(effects
 				(font
@@ -7428,7 +7491,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "SparkFun Electronics"
+		(property "Manufacturer" "-"
 			(at 101.6 50.8 0)
 			(effects
 				(font
@@ -7437,7 +7500,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "COM-16347"
+		(property "Manufacturer Part no." "WS2812B"
 			(at 101.6 50.8 0)
 			(effects
 				(font
@@ -7473,7 +7536,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor 2 Part no." "C114586"
+		(property "Vendor 2 Part no." "C22461793"
 			(at 101.6 50.8 0)
 			(effects
 				(font
@@ -8074,7 +8137,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "-"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 50.8 177.8 0)
 			(effects
 				(font
@@ -8083,7 +8146,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "-"
+		(property "Manufacturer Part no." "CL21B104KBCNFNC"
 			(at 50.8 177.8 0)
 			(effects
 				(font
@@ -8111,6 +8174,15 @@
 			)
 		)
 		(property "Vendor 2" "LCSC"
+			(at 50.8 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2 Part no." "C318718"
 			(at 50.8 177.8 0)
 			(effects
 				(font
@@ -8252,7 +8324,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "-"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 152.4 177.8 0)
 			(effects
 				(font
@@ -8261,7 +8333,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "-"
+		(property "Manufacturer Part no." "CL21B104KBCNFNC"
 			(at 152.4 177.8 0)
 			(effects
 				(font
@@ -8289,6 +8361,15 @@
 			)
 		)
 		(property "Vendor 2" "LCSC"
+			(at 152.4 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2 Part no." "C318718"
 			(at 152.4 177.8 0)
 			(effects
 				(font
@@ -8913,7 +8994,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "SparkFun Electronics"
+		(property "Manufacturer" "-"
 			(at 101.6 127 0)
 			(effects
 				(font
@@ -8922,7 +9003,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "COM-16347"
+		(property "Manufacturer Part no." "WS2812B"
 			(at 101.6 127 0)
 			(effects
 				(font
@@ -8958,7 +9039,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor 2 Part no." "C114586"
+		(property "Vendor 2 Part no." "C22461793"
 			(at 101.6 127 0)
 			(effects
 				(font
@@ -9355,7 +9436,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "-"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 139.7 177.8 0)
 			(effects
 				(font
@@ -9364,7 +9445,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "-"
+		(property "Manufacturer Part no." "CL21B104KBCNFNC"
 			(at 139.7 177.8 0)
 			(effects
 				(font
@@ -9392,6 +9473,15 @@
 			)
 		)
 		(property "Vendor 2" "LCSC"
+			(at 139.7 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2 Part no." "C318718"
 			(at 139.7 177.8 0)
 			(effects
 				(font
@@ -9533,7 +9623,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "-"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 38.1 177.8 0)
 			(effects
 				(font
@@ -9542,7 +9632,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "-"
+		(property "Manufacturer Part no." "CL21B104KBCNFNC"
 			(at 38.1 177.8 0)
 			(effects
 				(font
@@ -9570,6 +9660,15 @@
 			)
 		)
 		(property "Vendor 2" "LCSC"
+			(at 38.1 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2 Part no." "C318718"
 			(at 38.1 177.8 0)
 			(effects
 				(font
@@ -9684,7 +9783,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "SparkFun Electronics"
+		(property "Manufacturer" "-"
 			(at 177.8 50.8 0)
 			(effects
 				(font
@@ -9693,7 +9792,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "COM-16347"
+		(property "Manufacturer Part no." "WS2812B"
 			(at 177.8 50.8 0)
 			(effects
 				(font
@@ -9729,7 +9828,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor 2 Part no." "C114586"
+		(property "Vendor 2 Part no." "C22461793"
 			(at 177.8 50.8 0)
 			(effects
 				(font
@@ -9895,7 +9994,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "SparkFun Electronics"
+		(property "Manufacturer" "-"
 			(at 127 127 0)
 			(effects
 				(font
@@ -9904,7 +10003,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "COM-16347"
+		(property "Manufacturer Part no." "WS2812B"
 			(at 127 127 0)
 			(effects
 				(font
@@ -9940,7 +10039,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor 2 Part no." "C114586"
+		(property "Vendor 2 Part no." "C22461793"
 			(at 127 127 0)
 			(effects
 				(font

@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Wordclock - LEDs")
-		(date "2024-10-27")
+		(date "2024-10-29")
 		(rev "A")
 		(company "ElektroNik Zoller")
 		(comment 1 "Nikolai Zoller")
@@ -1487,7 +1487,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23_Handsoldering"
 			(at 48.895 40.64 0)
 			(effects
 				(font
@@ -1589,7 +1589,16 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor 2 Part no." " C518792"
+		(property "Vendor 2 Part no." "C518792"
+			(at 50.8 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" "General purpose N-channel MOSFET"
 			(at 50.8 35.56 0)
 			(effects
 				(font
@@ -1782,7 +1791,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "-"
+		(property "Manufacturer" "YAGEO"
 			(at 63.5 31.75 0)
 			(effects
 				(font
@@ -1791,7 +1800,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "-"
+		(property "Manufacturer Part no." "RC0805FR-0710KL"
 			(at 63.5 31.75 0)
 			(effects
 				(font
@@ -1801,6 +1810,15 @@
 			)
 		)
 		(property "Vendor 1 Part no." "311-10.0KCRCT-ND"
+			(at 63.5 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2 Part no." "C84376"
 			(at 63.5 31.75 0)
 			(effects
 				(font
@@ -1924,7 +1942,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "-"
+		(property "Manufacturer" "YAGEO"
 			(at 38.1 31.75 0)
 			(effects
 				(font
@@ -1933,7 +1951,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "-"
+		(property "Manufacturer Part no." "RC0805FR-0710KL"
 			(at 38.1 31.75 0)
 			(effects
 				(font
@@ -1943,6 +1961,15 @@
 			)
 		)
 		(property "Vendor 1 Part no." "311-10.0KCRCT-ND"
+			(at 38.1 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2 Part no." "C84376"
 			(at 38.1 31.75 0)
 			(effects
 				(font

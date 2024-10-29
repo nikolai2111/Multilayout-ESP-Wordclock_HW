@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Wordclock - USB & UART")
-		(date "2024-10-27")
+		(date "2024-10-29")
 		(rev "A")
 		(company "ElektroNik Zoller")
 		(comment 1 "Nikolai Zoller")
@@ -4534,7 +4534,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "-"
+		(property "Manufacturer" "YAGEO"
 			(at 190.5 71.12 0)
 			(effects
 				(font
@@ -4543,7 +4543,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "-"
+		(property "Manufacturer Part no." "RC0805FR-0710KL"
 			(at 190.5 71.12 0)
 			(effects
 				(font
@@ -4553,6 +4553,15 @@
 			)
 		)
 		(property "Vendor 1 Part no." "311-10.0KCRCT-ND"
+			(at 190.5 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2 Part no." "C84376"
 			(at 190.5 71.12 0)
 			(effects
 				(font
@@ -4676,7 +4685,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "-"
+		(property "Manufacturer" "Lite-On Inc."
 			(at 266.7 90.17 0)
 			(effects
 				(font
@@ -4685,7 +4694,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "-"
+		(property "Manufacturer Part no." "LTST-C171GKT"
 			(at 266.7 90.17 0)
 			(effects
 				(font
@@ -4695,6 +4704,15 @@
 			)
 		)
 		(property "Vendor 1 Part no." "160-1423-1-ND"
+			(at 266.7 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2 Part no." "C913075"
 			(at 266.7 90.17 0)
 			(effects
 				(font
@@ -4878,7 +4896,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm"
+		(property "Footprint" "Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias"
 			(at 184.15 115.57 0)
 			(effects
 				(font
@@ -4950,7 +4968,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor 2 Part no." " C969151"
+		(property "Vendor 2 Part no." "C969151"
 			(at 152.4 88.9 0)
 			(effects
 				(font
@@ -5152,7 +5170,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "-"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 139.7 177.8 0)
 			(effects
 				(font
@@ -5161,7 +5179,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "-"
+		(property "Manufacturer Part no." "CL21B104KBCNFNC"
 			(at 139.7 177.8 0)
 			(effects
 				(font
@@ -5189,6 +5207,15 @@
 			)
 		)
 		(property "Vendor 2" "LCSC"
+			(at 139.7 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2 Part no." "C318718"
 			(at 139.7 177.8 0)
 			(effects
 				(font
@@ -5311,7 +5338,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "-"
+		(property "Manufacturer" "YAGEO"
 			(at 69.85 71.12 0)
 			(effects
 				(font
@@ -5320,7 +5347,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "-"
+		(property "Manufacturer Part no." "RC0805FR-075K1L"
 			(at 69.85 71.12 0)
 			(effects
 				(font
@@ -5330,6 +5357,15 @@
 			)
 		)
 		(property "Vendor 1 Part no." "311-5.10KCRCT-ND"
+			(at 69.85 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2 Part no." "C84375"
 			(at 69.85 71.12 0)
 			(effects
 				(font
@@ -5501,7 +5537,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "-"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 152.4 177.8 0)
 			(effects
 				(font
@@ -5510,7 +5546,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "-"
+		(property "Manufacturer Part no." "CL21B104KBCNFNC"
 			(at 152.4 177.8 0)
 			(effects
 				(font
@@ -5538,6 +5574,15 @@
 			)
 		)
 		(property "Vendor 2" "LCSC"
+			(at 152.4 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2 Part no." "C318718"
 			(at 152.4 177.8 0)
 			(effects
 				(font
@@ -5727,7 +5772,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "-"
+		(property "Manufacturer" "YAGEO"
 			(at 31.75 113.03 0)
 			(effects
 				(font
@@ -5736,7 +5781,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "-"
+		(property "Manufacturer Part no." "RC0805JR-070RL"
 			(at 31.75 113.03 0)
 			(effects
 				(font
@@ -5746,6 +5791,15 @@
 			)
 		)
 		(property "Vendor 1 Part no." "311-0.0ARCT-ND"
+			(at 31.75 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2 Part no." "C96345"
 			(at 31.75 113.03 0)
 			(effects
 				(font
@@ -5851,7 +5905,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "-"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 25.4 113.03 0)
 			(effects
 				(font
@@ -5860,7 +5914,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "-"
+		(property "Manufacturer Part no." "CL21B104KBCNFNC"
 			(at 25.4 113.03 0)
 			(effects
 				(font
@@ -5896,7 +5950,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor 2 Part no." ""
+		(property "Vendor 2 Part no." "C318718"
 			(at 25.4 113.03 0)
 			(effects
 				(font
@@ -6104,7 +6158,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "-"
+		(property "Manufacturer" "YAGEO"
 			(at 266.7 80.01 0)
 			(effects
 				(font
@@ -6113,7 +6167,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "-"
+		(property "Manufacturer Part no." "RC0805FR-071KL"
 			(at 266.7 80.01 0)
 			(effects
 				(font
@@ -6123,6 +6177,15 @@
 			)
 		)
 		(property "Vendor 1 Part no." "311-1.00KCRCT-ND"
+			(at 266.7 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2 Part no." "C95781"
 			(at 266.7 80.01 0)
 			(effects
 				(font
@@ -6312,7 +6375,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "-"
+		(property "Manufacturer" "YAGEO"
 			(at 102.87 50.8 0)
 			(effects
 				(font
@@ -6321,7 +6384,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "-"
+		(property "Manufacturer Part no." "RC0805FR-0722K1L"
 			(at 102.87 50.8 0)
 			(effects
 				(font
@@ -6331,6 +6394,15 @@
 			)
 		)
 		(property "Vendor 1 Part no." "311-22.1KCRCT-ND"
+			(at 102.87 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2 Part no." "C273840"
 			(at 102.87 50.8 0)
 			(effects
 				(font
@@ -6453,7 +6525,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "-"
+		(property "Manufacturer" "YAGEO"
 			(at 114.3 83.82 0)
 			(effects
 				(font
@@ -6462,7 +6534,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "-"
+		(property "Manufacturer Part no." "RC0805JR-070RL"
 			(at 114.3 83.82 0)
 			(effects
 				(font
@@ -6472,6 +6544,15 @@
 			)
 		)
 		(property "Vendor 1 Part no." "311-0.0ARCT-ND"
+			(at 114.3 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2 Part no." "C96345"
 			(at 114.3 83.82 0)
 			(effects
 				(font
@@ -6643,7 +6724,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "-"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 165.1 177.8 0)
 			(effects
 				(font
@@ -6652,7 +6733,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "-"
+		(property "Manufacturer Part no." "CL21B104KBCNFNC"
 			(at 165.1 177.8 0)
 			(effects
 				(font
@@ -6680,6 +6761,15 @@
 			)
 		)
 		(property "Vendor 2" "LCSC"
+			(at 165.1 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2 Part no." "C318718"
 			(at 165.1 177.8 0)
 			(effects
 				(font
@@ -6956,7 +7046,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "-"
+		(property "Manufacturer" "YAGEO"
 			(at 93.98 101.6 0)
 			(effects
 				(font
@@ -6965,7 +7055,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "-"
+		(property "Manufacturer Part no." "RC0805JR-070RL"
 			(at 93.98 101.6 0)
 			(effects
 				(font
@@ -7001,7 +7091,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor 2 Part no." ""
+		(property "Vendor 2 Part no." "C96345"
 			(at 93.98 101.6 0)
 			(effects
 				(font
@@ -7098,7 +7188,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-143"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-143_Handsoldering"
 			(at 70.485 107.95 0)
 			(effects
 				(font
@@ -7171,7 +7261,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "-"
+		(property "Manufacturer" "Littelfuse Inc."
 			(at 76.2 106.68 0)
 			(effects
 				(font
@@ -7198,7 +7288,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor 2 Part no." " C7074"
+		(property "Vendor 2 Part no." "C7074"
 			(at 76.2 106.68 0)
 			(effects
 				(font
@@ -7592,7 +7682,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "-"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 114.3 63.5 0)
 			(effects
 				(font
@@ -7601,7 +7691,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "-"
+		(property "Manufacturer Part no." "CL21B105KPFNNNE"
 			(at 114.3 63.5 0)
 			(effects
 				(font
@@ -7611,6 +7701,15 @@
 			)
 		)
 		(property "Vendor 1 Part no." "1276-1275-2-ND"
+			(at 114.3 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2 Part no." "C107367"
 			(at 114.3 63.5 0)
 			(effects
 				(font
@@ -7782,7 +7881,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "-"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 114.3 177.8 0)
 			(effects
 				(font
@@ -7791,7 +7890,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "-"
+		(property "Manufacturer Part no." "CL21A106KOQNNNE"
 			(at 114.3 177.8 0)
 			(effects
 				(font
@@ -7819,6 +7918,15 @@
 			)
 		)
 		(property "Vendor 2" "LCSC"
+			(at 114.3 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2 Part no." "C1713"
 			(at 114.3 177.8 0)
 			(effects
 				(font
@@ -7941,7 +8049,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "-"
+		(property "Manufacturer" "YAGEO"
 			(at 69.85 73.66 0)
 			(effects
 				(font
@@ -7950,7 +8058,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "-"
+		(property "Manufacturer Part no." "RC0805FR-075K1L"
 			(at 69.85 73.66 0)
 			(effects
 				(font
@@ -7960,6 +8068,15 @@
 			)
 		)
 		(property "Vendor 1 Part no." "311-5.10KCRCT-ND"
+			(at 69.85 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2 Part no." "C84375"
 			(at 69.85 73.66 0)
 			(effects
 				(font
@@ -8599,6 +8716,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" "General purpose NPN transistor"
+			(at 207.01 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "2bcff049-450f-4880-868b-2e94275e74ff")
 		)
@@ -8672,7 +8798,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "-"
+		(property "Manufacturer" "YAGEO"
 			(at 96.52 101.6 0)
 			(effects
 				(font
@@ -8681,7 +8807,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "-"
+		(property "Manufacturer Part no." "RC0805JR-070RL"
 			(at 96.52 101.6 0)
 			(effects
 				(font
@@ -8717,7 +8843,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor 2 Part no." ""
+		(property "Vendor 2 Part no." "C96345"
 			(at 96.52 101.6 0)
 			(effects
 				(font
@@ -8952,7 +9078,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "-"
+		(property "Manufacturer" "YAGEO"
 			(at 102.87 63.5 0)
 			(effects
 				(font
@@ -8961,7 +9087,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "-"
+		(property "Manufacturer Part no." "RC0805FR-0747K5L"
 			(at 102.87 63.5 0)
 			(effects
 				(font
@@ -8971,6 +9097,15 @@
 			)
 		)
 		(property "Vendor 1 Part no." "311-47.5KCRCT-ND"
+			(at 102.87 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2 Part no." "C137519"
 			(at 102.87 63.5 0)
 			(effects
 				(font
@@ -9094,7 +9229,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "-"
+		(property "Manufacturer" "Lite-On Inc."
 			(at 254 90.17 0)
 			(effects
 				(font
@@ -9103,7 +9238,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "-"
+		(property "Manufacturer Part no." "LTST-C171GKT"
 			(at 254 90.17 0)
 			(effects
 				(font
@@ -9113,6 +9248,15 @@
 			)
 		)
 		(property "Vendor 1 Part no." "160-1423-1-ND"
+			(at 254 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2 Part no." "C913075"
 			(at 254 90.17 0)
 			(effects
 				(font
@@ -9284,7 +9428,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "-"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 101.6 177.8 0)
 			(effects
 				(font
@@ -9293,7 +9437,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "-"
+		(property "Manufacturer Part no." "CL21A106KOQNNNE"
 			(at 101.6 177.8 0)
 			(effects
 				(font
@@ -9321,6 +9465,15 @@
 			)
 		)
 		(property "Vendor 2" "LCSC"
+			(at 101.6 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2 Part no." "C1713"
 			(at 101.6 177.8 0)
 			(effects
 				(font
@@ -9444,7 +9597,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "-"
+		(property "Manufacturer" "YAGEO"
 			(at 254 80.01 0)
 			(effects
 				(font
@@ -9453,7 +9606,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "-"
+		(property "Manufacturer Part no." "RC0805FR-071KL"
 			(at 254 80.01 0)
 			(effects
 				(font
@@ -9463,6 +9616,15 @@
 			)
 		)
 		(property "Vendor 1 Part no." "311-1.00KCRCT-ND"
+			(at 254 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2 Part no." "C95781"
 			(at 254 80.01 0)
 			(effects
 				(font
@@ -9586,7 +9748,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "-"
+		(property "Manufacturer" "YAGEO"
 			(at 133.35 59.69 0)
 			(effects
 				(font
@@ -9595,7 +9757,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "-"
+		(property "Manufacturer Part no." "RC0805FR-071KL"
 			(at 133.35 59.69 0)
 			(effects
 				(font
@@ -9605,6 +9767,15 @@
 			)
 		)
 		(property "Vendor 1 Part no." "311-1.00KCRCT-ND"
+			(at 133.35 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2 Part no." "C95781"
 			(at 133.35 59.69 0)
 			(effects
 				(font
@@ -9710,7 +9881,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "-"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 127 177.8 0)
 			(effects
 				(font
@@ -9719,7 +9890,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "-"
+		(property "Manufacturer Part no." "CL21A106KOQNNNE"
 			(at 127 177.8 0)
 			(effects
 				(font
@@ -9747,6 +9918,15 @@
 			)
 		)
 		(property "Vendor 2" "LCSC"
+			(at 127 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2 Part no." "C1713"
 			(at 127 177.8 0)
 			(effects
 				(font
@@ -10000,7 +10180,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor 2 Part no." " C3020560"
+		(property "Vendor 2 Part no." "C3020560"
 			(at 44.45 81.28 0)
 			(effects
 				(font
@@ -10382,6 +10562,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" "General purpose NPN transistor"
+			(at 207.01 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "26d47bba-55db-4a9e-9e75-84cccb2b0ebf")
 		)
@@ -10499,7 +10688,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "-"
+		(property "Manufacturer" "YAGEO"
 			(at 114.3 81.28 0)
 			(effects
 				(font
@@ -10508,7 +10697,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "-"
+		(property "Manufacturer Part no." "RC0805JR-070RL"
 			(at 114.3 81.28 0)
 			(effects
 				(font
@@ -10518,6 +10707,15 @@
 			)
 		)
 		(property "Vendor 1 Part no." "311-0.0ARCT-ND"
+			(at 114.3 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2 Part no." "C96345"
 			(at 114.3 81.28 0)
 			(effects
 				(font
@@ -10640,7 +10838,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "-"
+		(property "Manufacturer" "YAGEO"
 			(at 190.5 87.63 0)
 			(effects
 				(font
@@ -10649,7 +10847,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "-"
+		(property "Manufacturer Part no." "RC0805FR-0710KL"
 			(at 190.5 87.63 0)
 			(effects
 				(font
@@ -10659,6 +10857,15 @@
 			)
 		)
 		(property "Vendor 1 Part no." "311-10.0KCRCT-ND"
+			(at 190.5 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2 Part no." "C84376"
 			(at 190.5 87.63 0)
 			(effects
 				(font

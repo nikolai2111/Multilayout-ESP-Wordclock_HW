@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Wordclock - Top")
-		(date "2024-10-27")
+		(date "2024-10-29")
 		(rev "A")
 		(company "ElektroNik Zoller")
 		(comment 1 "Nikolai Zoller")
@@ -505,7 +505,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "-"
+		(property "Manufacturer" "YAGEO"
 			(at 165.1 116.84 0)
 			(effects
 				(font
@@ -514,7 +514,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "-"
+		(property "Manufacturer Part no." "RC0805JR-070RL"
 			(at 165.1 116.84 0)
 			(effects
 				(font
@@ -550,7 +550,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor 2 Part no." ""
+		(property "Vendor 2 Part no." "C96345"
 			(at 165.1 116.84 0)
 			(effects
 				(font
