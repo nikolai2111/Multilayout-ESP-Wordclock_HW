@@ -1181,7 +1181,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4076bc69-6672-459c-b2ee-44d49fa4571d")
-		(property "Reference" "#PWR0103"
+		(property "Reference" "#PWR0102"
 			(at 171.45 41.91 0)
 			(effects
 				(font
@@ -1232,7 +1232,7 @@
 		(instances
 			(project ""
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
-					(reference "#PWR0103")
+					(reference "#PWR0102")
 					(unit 1)
 				)
 			)
@@ -1265,7 +1265,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical"
 			(at 163.83 38.1 0)
 			(effects
 				(font
@@ -1284,6 +1284,60 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x08, script generated"
+			(at 163.83 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "-"
+			(at 163.83 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part no." "-"
+			(at 163.83 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor 1" "-"
+			(at 163.83 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor 1 Part no." "-"
+			(at 163.83 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2" "-"
+			(at 163.83 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2 Part no." "-"
 			(at 163.83 38.1 0)
 			(effects
 				(font
@@ -1334,7 +1388,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "68797f6e-82e1-4dac-91cf-f0fd8b4ec87c")
-		(property "Reference" "#PWR0102"
+		(property "Reference" "#PWR0103"
 			(at 173.99 41.91 0)
 			(effects
 				(font
@@ -1385,7 +1439,7 @@
 		(instances
 			(project ""
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
-					(reference "#PWR0102")
+					(reference "#PWR0103")
 					(unit 1)
 				)
 			)

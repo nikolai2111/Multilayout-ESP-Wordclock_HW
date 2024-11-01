@@ -2344,7 +2344,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Battery_Cell"
+		(property "Value" "CR2032"
 			(at 207.01 87.0584 0)
 			(effects
 				(font
