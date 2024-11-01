@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Wordclock - USB & UART")
-		(date "2024-10-29")
+		(date "2024-11-01")
 		(rev "A")
 		(company "ElektroNik Zoller")
 		(comment 1 "Nikolai Zoller")
@@ -4354,6 +4354,28 @@
 		)
 		(uuid "01e53c43-1b67-416b-818b-a95a177455f6")
 	)
+	(label "USB_{0}.D-"
+		(at 127 81.28 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0ec39467-cbe2-4cbe-ba64-0afedf821132")
+	)
+	(label "USB_{IN}.D-"
+		(at 63.5 81.28 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "12f3907e-d5c2-4f9f-a289-6046897ea586")
+	)
 	(label "USB.D+"
 		(at 105.41 111.76 180)
 		(fields_autoplaced yes)
@@ -4364,6 +4386,17 @@
 			(justify right bottom)
 		)
 		(uuid "6d35c2c2-aa8b-4e75-baba-586ad8b74bfa")
+	)
+	(label "USB_{0}.D+"
+		(at 127 83.82 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a28670a7-b8db-4237-a56c-c59ccef2b905")
 	)
 	(label "UART.RXD"
 		(at 177.8 66.04 180)
@@ -4386,6 +4419,17 @@
 			(justify right bottom)
 		)
 		(uuid "bfc3c2e1-5ded-4d7d-a7de-8084d4f04576")
+	)
+	(label "USB_{IN}.D+"
+		(at 63.5 83.82 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e122674e-2c0b-4e28-bedc-e1ddece1b9f0")
 	)
 	(hierarchical_label "USB{D+, D-}"
 		(shape input)
