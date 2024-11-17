@@ -35,5 +35,7 @@ fp-info-cache
 *_Panel.kicad_pro 
 *panel*.kicad_pro
 
-# Exported Gerber files (directory)
+# Exported production (directory)
 Gerber_*/
+*gerber*/
+*production*/

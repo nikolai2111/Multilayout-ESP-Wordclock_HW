@@ -4170,7 +4170,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor 2 Part no." "C107410"
+		(property "Vendor 2 Part no." "C9866"
 			(at 114.3 86.36 0)
 			(effects
 				(font
@@ -4224,7 +4224,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "LCSC, only has the 8 pin variant"
+		(property "Comment" "LCSC, only has the compatible DS3231SN in stock"
 			(at 114.3 86.36 0)
 			(effects
 				(font
