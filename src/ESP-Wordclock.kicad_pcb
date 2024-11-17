@@ -9,7 +9,7 @@
 	(paper "A3")
 	(title_block
 		(title "Wordclock - PCB")
-		(date "2024-11-05")
+		(date "2024-11-17")
 		(rev "A")
 		(company "ElektroNik Zoller")
 		(comment 1 "Nikolai Zoller")
@@ -124687,6 +124687,18 @@
 				(thickness 0.15)
 			)
 			(justify mirror)
+		)
+	)
+	(gr_text "JLCJLCJLCJLC"
+		(at 37 263 -90)
+		(layer "B.SilkS")
+		(uuid "a11906b4-d1c6-45d2-b4f1-d64752bcb049")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
 		)
 	)
 	(gr_text "RST"
