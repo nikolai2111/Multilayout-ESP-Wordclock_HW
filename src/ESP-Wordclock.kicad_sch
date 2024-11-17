@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Wordclock - Top")
-		(date "2024-11-01")
+		(date "2024-11-17")
 		(rev "A")
 		(company "ElektroNik Zoller")
 		(comment 1 "Nikolai Zoller")
@@ -1246,7 +1246,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "47f15fd3-8916-4f5d-97ae-37a52a2ca1f1")
 		(property "Reference" "J101"
@@ -1338,6 +1338,33 @@
 			)
 		)
 		(property "Vendor 2 Part no." "-"
+			(at 163.83 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Internal 1 Part no." ""
+			(at 163.83 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Internal 2 Part no." ""
+			(at 163.83 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" ""
 			(at 163.83 38.1 0)
 			(effects
 				(font

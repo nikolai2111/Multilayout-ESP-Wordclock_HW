@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Wordclock - LEDs")
-		(date "2024-10-29")
+		(date "2024-11-17")
 		(rev "A")
 		(company "ElektroNik Zoller")
 		(comment 1 "Nikolai Zoller")
@@ -1607,6 +1607,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C518792"
+			(at 15.24 -15.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "4a7307b7-a9fe-42df-9455-408554094ae5")
 		)
@@ -1827,6 +1836,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+			(at 63.5 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a9290b45-d3f0-48c9-b99a-345a021b6234")
 		)
@@ -1970,6 +1988,15 @@
 			)
 		)
 		(property "Vendor 2 Part no." "C84376"
+			(at 38.1 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
 			(at 38.1 31.75 0)
 			(effects
 				(font

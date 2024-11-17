@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Wordclock - USB & UART")
-		(date "2024-11-01")
+		(date "2024-11-17")
 		(rev "A")
 		(company "ElektroNik Zoller")
 		(comment 1 "Nikolai Zoller")
@@ -4614,6 +4614,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+			(at 190.5 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5af673d9-0b4f-40dd-be81-321f75bc3227")
 		)
@@ -4758,6 +4767,15 @@
 		)
 		(property "Vendor 2 Part no." "C913075"
 			(at 266.7 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C913075"
+			(at 356.87 356.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5048,6 +5066,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C969151"
+			(at 0 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "8"
 			(uuid "66ec3409-eaa4-460e-98e5-a09959dcb3ac")
 		)
@@ -5223,7 +5250,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "CL21B104KBCNFNC"
+		(property "Manufacturer Part no." "CL21B104KCFNNNE"
 			(at 139.7 177.8 0)
 			(effects
 				(font
@@ -5241,7 +5268,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor 1 Part no." "1276-2444-1-ND "
+		(property "Vendor 1 Part no." "1276-6840-1-ND"
 			(at 139.7 177.8 0)
 			(effects
 				(font
@@ -5259,7 +5286,16 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor 2 Part no." "C318718"
+		(property "Vendor 2 Part no." "C28233"
+			(at 139.7 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
 			(at 139.7 177.8 0)
 			(effects
 				(font
@@ -5410,6 +5446,15 @@
 			)
 		)
 		(property "Vendor 2 Part no." "C84375"
+			(at 69.85 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
 			(at 69.85 71.12 0)
 			(effects
 				(font
@@ -5590,7 +5635,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "CL21B104KBCNFNC"
+		(property "Manufacturer Part no." "CL21B104KCFNNNE"
 			(at 152.4 177.8 0)
 			(effects
 				(font
@@ -5608,7 +5653,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor 1 Part no." "1276-2444-1-ND "
+		(property "Vendor 1 Part no." "1276-6840-1-ND"
 			(at 152.4 177.8 0)
 			(effects
 				(font
@@ -5626,7 +5671,16 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor 2 Part no." "C318718"
+		(property "Vendor 2 Part no." "C28233"
+			(at 152.4 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
 			(at 152.4 177.8 0)
 			(effects
 				(font
@@ -5852,6 +5906,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens "
+			(at 31.75 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1a74d32e-dca4-412b-b7ea-4acd3e924552")
 		)
@@ -5958,7 +6021,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "CL21B104KBCNFNC"
+		(property "Manufacturer Part no." "CL21B104KCFNNNE"
 			(at 25.4 113.03 0)
 			(effects
 				(font
@@ -5976,7 +6039,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor 1 Part no." "1276-2444-1-ND "
+		(property "Vendor 1 Part no." "1276-6840-1-ND"
 			(at 25.4 113.03 0)
 			(effects
 				(font
@@ -5994,7 +6057,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor 2 Part no." "C318718"
+		(property "Vendor 2 Part no." "C28233"
 			(at 25.4 113.03 0)
 			(effects
 				(font
@@ -6013,6 +6076,15 @@
 			)
 		)
 		(property "Internal 2 Part no." ""
+			(at 25.4 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
 			(at 25.4 113.03 0)
 			(effects
 				(font
@@ -6238,6 +6310,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+			(at 266.7 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c3c1274e-cfc1-4ac3-a683-ac18b623a8bf")
 		)
@@ -6455,6 +6536,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C17552"
+			(at 0 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "df8bcafb-db54-4129-8f6a-cce655fd8be8")
 		)
@@ -6597,6 +6687,15 @@
 			)
 		)
 		(property "Vendor 2 Part no." "C96345"
+			(at 114.3 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens "
 			(at 114.3 83.82 0)
 			(effects
 				(font
@@ -6777,7 +6876,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part no." "CL21B104KBCNFNC"
+		(property "Manufacturer Part no." "CL21B104KCFNNNE"
 			(at 165.1 177.8 0)
 			(effects
 				(font
@@ -6795,7 +6894,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor 1 Part no." "1276-2444-1-ND "
+		(property "Vendor 1 Part no." "1276-6840-1-ND"
 			(at 165.1 177.8 0)
 			(effects
 				(font
@@ -6813,7 +6912,16 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor 2 Part no." "C318718"
+		(property "Vendor 2 Part no." "C28233"
+			(at 165.1 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
 			(at 165.1 177.8 0)
 			(effects
 				(font
@@ -7189,6 +7297,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens "
+			(at 93.98 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "195fa157-33a2-4e91-9094-761d7a7d113e")
 		)
@@ -7334,6 +7451,15 @@
 		)
 		(property "Vendor 2 Part no." "C7074"
 			(at 76.2 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C7074"
+			(at 152.4 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7762,6 +7888,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+			(at 114.3 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b98a0d38-f799-4030-bbbe-75868991ca7e")
 		)
@@ -7979,6 +8114,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens "
+			(at 114.3 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b67015cb-fd80-4b30-b2e0-77401b883736")
 		)
@@ -8121,6 +8265,15 @@
 			)
 		)
 		(property "Vendor 2 Part no." "C84375"
+			(at 69.85 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
 			(at 69.85 73.66 0)
 			(effects
 				(font
@@ -8769,6 +8922,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C49581"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "2bcff049-450f-4880-868b-2e94275e74ff")
 		)
@@ -8933,6 +9095,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 96.52 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens "
 			(at 96.52 101.6 0)
 			(effects
 				(font
@@ -9158,6 +9329,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C26011"
+			(at 0 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b6dc2c34-60e3-49c2-8d83-e321345d31c4")
 		)
@@ -9302,6 +9482,15 @@
 		)
 		(property "Vendor 2 Part no." "C913075"
 			(at 254 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C913075"
+			(at 344.17 344.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9526,6 +9715,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens "
+			(at 101.6 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c4ddb0f2-5a20-4f2d-8721-b11333b4acb9")
 		)
@@ -9669,6 +9867,15 @@
 			)
 		)
 		(property "Vendor 2 Part no." "C95781"
+			(at 254 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
 			(at 254 80.01 0)
 			(effects
 				(font
@@ -9828,6 +10035,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+			(at 133.35 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "35ba39b7-1456-4651-92cc-c0a136f7fdb8")
 		)
@@ -9971,6 +10187,15 @@
 			)
 		)
 		(property "Vendor 2 Part no." "C1713"
+			(at 127 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens "
 			(at 127 177.8 0)
 			(effects
 				(font
@@ -10253,6 +10478,15 @@
 		)
 		(property "Sim.Type" ""
 			(at 44.45 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C3020560"
+			(at 0 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10615,6 +10849,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C49581"
+			(at 0 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "26d47bba-55db-4a9e-9e75-84cccb2b0ebf")
 		)
@@ -10768,6 +11011,15 @@
 				(hide yes)
 			)
 		)
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens "
+			(at 114.3 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "cb65360e-9ab5-43b5-b371-7245dd09334c")
 		)
@@ -10910,6 +11162,15 @@
 			)
 		)
 		(property "Vendor 2 Part no." "C84376"
+			(at 190.5 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
 			(at 190.5 87.63 0)
 			(effects
 				(font
