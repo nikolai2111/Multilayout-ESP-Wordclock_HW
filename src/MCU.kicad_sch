@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Wordclock - Microcontroller Unit & Power Supply")
-		(date "2024-11-17")
+		(date "2024-11-25")
 		(rev "A")
 		(company "ElektroNik Zoller")
 		(comment 1 "Nikolai Zoller")
@@ -3179,7 +3179,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens "
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components "
 			(at 241.3 69.85 0)
 			(effects
 				(font
@@ -3832,7 +3832,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 203.2 69.85 0)
 			(effects
 				(font
@@ -3992,7 +3992,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 50.8 102.87 0)
 			(effects
 				(font
@@ -5111,7 +5111,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 63.5 71.12 0)
 			(effects
 				(font
@@ -5404,7 +5404,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 228.6 120.65 0)
 			(effects
 				(font
@@ -5564,7 +5564,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 38.1 177.8 0)
 			(effects
 				(font
@@ -5724,7 +5724,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens "
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components "
 			(at 25.4 177.8 0)
 			(effects
 				(font
@@ -5951,7 +5951,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 50.8 57.15 0)
 			(effects
 				(font
@@ -6111,7 +6111,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 203.2 120.65 0)
 			(effects
 				(font
@@ -6337,7 +6337,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens "
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components "
 			(at 190.5 69.85 0)
 			(effects
 				(font
@@ -6743,7 +6743,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 63.5 119.38 0)
 			(effects
 				(font
@@ -6969,7 +6969,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 228.6 69.85 0)
 			(effects
 				(font
@@ -7128,7 +7128,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 76.2 71.12 0)
 			(effects
 				(font

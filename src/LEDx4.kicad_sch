@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Wordclock - LED Row with 4 pcs.")
-		(date "2024-11-17")
+		(date "2024-11-25")
 		(rev "A")
 		(company "ElektroNik Zoller")
 		(comment 1 "Nikolai Zoller")
@@ -1188,7 +1188,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 127 177.8 0)
 			(effects
 				(font
@@ -1612,7 +1612,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 139.7 177.8 0)
 			(effects
 				(font
@@ -2852,7 +2852,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 152.4 177.8 0)
 			(effects
 				(font
@@ -3012,7 +3012,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 165.1 177.8 0)
 			(effects
 				(font

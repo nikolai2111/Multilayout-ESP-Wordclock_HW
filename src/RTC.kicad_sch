@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Wordclock - Real Time Clock")
-		(date "2024-11-17")
+		(date "2024-11-25")
 		(rev "A")
 		(company "ElektroNik Zoller")
 		(comment 1 "Nikolai Zoller")
@@ -2178,7 +2178,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 165.1 177.8 0)
 			(effects
 				(font
@@ -2846,7 +2846,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 146.05 74.93 0)
 			(effects
 				(font
@@ -3023,7 +3023,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens "
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components "
 			(at 165.1 81.28 0)
 			(effects
 				(font
@@ -3332,7 +3332,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens "
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components "
 			(at 165.1 88.9 0)
 			(effects
 				(font
@@ -3492,7 +3492,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens "
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components "
 			(at 25.4 177.8 0)
 			(effects
 				(font
@@ -3737,7 +3737,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 133.35 74.93 0)
 			(effects
 				(font
@@ -4046,7 +4046,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens "
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components "
 			(at 88.9 91.44 0)
 			(effects
 				(font
@@ -4453,7 +4453,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 152.4 177.8 0)
 			(effects
 				(font
@@ -4745,7 +4745,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 38.1 177.8 0)
 			(effects
 				(font
