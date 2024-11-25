@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Wordclock - USB & UART")
-		(date "2024-11-17")
+		(date "2024-11-25")
 		(rev "A")
 		(company "ElektroNik Zoller")
 		(comment 1 "Nikolai Zoller")
@@ -7340,7 +7340,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SP0503BAHT"
+		(property "Value" "SP0503BAHTG"
 			(at 69.85 107.9499 0)
 			(effects
 				(font
@@ -7460,6 +7460,33 @@
 		)
 		(property "LCSC" "C7074"
 			(at 152.4 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Internal 1 Part no." ""
+			(at 76.2 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Internal 2 Part no." ""
+			(at 76.2 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comment" ""
+			(at 76.2 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
