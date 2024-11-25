@@ -9,7 +9,7 @@
 	(paper "A3")
 	(title_block
 		(title "Wordclock - PCB")
-		(date "2024-11-17")
+		(date "2024-11-25")
 		(rev "A")
 		(company "ElektroNik Zoller")
 		(comment 1 "Nikolai Zoller")
@@ -476,7 +476,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1294,7 +1294,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1638,7 +1638,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3878,7 +3878,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7066,7 +7066,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7884,7 +7884,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9650,7 +9650,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10468,7 +10468,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10812,7 +10812,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11156,7 +11156,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11500,7 +11500,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11844,7 +11844,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12188,7 +12188,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13006,7 +13006,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13350,7 +13350,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13694,7 +13694,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14512,7 +14512,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14856,7 +14856,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15200,7 +15200,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15544,7 +15544,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15888,7 +15888,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16232,7 +16232,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17162,7 +17162,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17980,7 +17980,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18798,7 +18798,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19616,7 +19616,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20908,7 +20908,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21252,7 +21252,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21596,7 +21596,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22414,7 +22414,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23232,7 +23232,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23576,7 +23576,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23920,7 +23920,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25212,7 +25212,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26030,7 +26030,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26374,7 +26374,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27666,7 +27666,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28958,7 +28958,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -29776,7 +29776,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31068,7 +31068,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31412,7 +31412,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31756,7 +31756,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34582,7 +34582,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -35400,7 +35400,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -38700,7 +38700,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -39992,7 +39992,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -40810,7 +40810,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -42102,7 +42102,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -42446,7 +42446,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -44212,7 +44212,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -45504,7 +45504,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -46434,7 +46434,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -46778,7 +46778,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -47122,7 +47122,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -47940,7 +47940,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -48284,7 +48284,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -50050,7 +50050,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -50394,7 +50394,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -51212,7 +51212,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -51556,7 +51556,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -51900,7 +51900,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -52244,7 +52244,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -53062,7 +53062,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -53880,7 +53880,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -54698,7 +54698,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -55042,7 +55042,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -55860,7 +55860,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -56204,7 +56204,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -57496,7 +57496,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -57840,7 +57840,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -59132,7 +59132,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -60424,7 +60424,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -61242,7 +61242,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -64430,7 +64430,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -65248,7 +65248,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -66066,7 +66066,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -66410,7 +66410,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -66754,7 +66754,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -68994,7 +68994,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -69338,7 +69338,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -69682,7 +69682,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -70500,7 +70500,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -71318,7 +71318,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -71662,7 +71662,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -72006,7 +72006,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -72824,7 +72824,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -73168,7 +73168,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -73512,7 +73512,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -73856,7 +73856,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -74674,7 +74674,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -75492,7 +75492,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -77258,7 +77258,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -77602,7 +77602,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -77946,7 +77946,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -78290,7 +78290,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -79108,7 +79108,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -80874,7 +80874,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -81692,7 +81692,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -82036,7 +82036,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -82854,7 +82854,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -83198,7 +83198,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -83542,7 +83542,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -83886,7 +83886,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -84704,7 +84704,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -85048,7 +85048,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -87762,7 +87762,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -89528,7 +89528,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -89872,7 +89872,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -90216,7 +90216,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -90560,7 +90560,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -91378,7 +91378,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -92670,7 +92670,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -93014,7 +93014,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -93358,7 +93358,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -93702,7 +93702,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -94520,7 +94520,7 @@
 				)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -94878,7 +94878,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens "
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components "
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -95624,7 +95624,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens "
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components "
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -95984,7 +95984,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens "
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components "
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -96780,7 +96780,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens "
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components "
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -98115,7 +98115,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens "
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components "
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -98503,7 +98503,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens "
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components "
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -98863,7 +98863,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -99251,7 +99251,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -99611,7 +99611,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -99971,7 +99971,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -100331,7 +100331,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -100691,7 +100691,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -101556,7 +101556,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -101916,7 +101916,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -102304,7 +102304,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -102664,7 +102664,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -105110,7 +105110,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens "
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components "
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -105498,7 +105498,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens "
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components "
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -105858,7 +105858,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens "
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components "
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -106246,7 +106246,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens "
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components "
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -106606,7 +106606,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -106966,7 +106966,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -107326,7 +107326,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -107686,7 +107686,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -107868,6 +107868,7 @@
 		(property "Value" "DS3231M"
 			(at 0 -6.1 0)
 			(layer "B.Fab")
+			(hide yes)
 			(uuid "3dd834c5-2e06-4e78-b445-006742bc21a9")
 			(effects
 				(font
@@ -107986,7 +107987,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Vendor 2 Part no." "C107410"
+		(property "Vendor 2 Part no." "C9866"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -108070,7 +108071,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "LCSC, only has the 8 pin variant"
+		(property "Comment" "LCSC, only has the compatible DS3231SN in stock"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -108084,7 +108085,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" "C9866"
+		(property "LCSC" "C107410"
 			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -108666,7 +108667,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -109026,7 +109027,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -109414,7 +109415,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -109596,6 +109597,7 @@
 		(property "Value" "ESP32-C3-WROOM-02"
 			(at 0 -8 0)
 			(layer "B.Fab")
+			(hide yes)
 			(uuid "cc096942-474b-4c65-99ef-670c536b54e7")
 			(effects
 				(font
@@ -111674,7 +111676,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -112880,7 +112882,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens "
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components "
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -113268,7 +113270,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -113827,7 +113829,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "SP0503BAHT"
+		(property "Value" "SP0503BAHTG"
 			(at -0.02 -2.48 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -114018,6 +114020,48 @@
 					(size 1.27 1.27)
 					(thickness 0.15)
 				)
+			)
+		)
+		(property "Internal 1 Part no." ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "cfd2d3ff-10db-4b8c-b622-fa41d61f7876")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Internal 2 Part no." ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1dadfc35-7e67-4c9d-9b57-be03d3126198")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Comment" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "826fc8bc-1b1a-4db7-866e-4c9301b2edad")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
 			)
 		)
 		(property ki_fp_filters "SOT?143*")
@@ -114410,7 +114454,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -114798,7 +114842,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens "
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components "
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -115301,7 +115345,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -115689,7 +115733,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens "
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components "
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -116077,7 +116121,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -116437,7 +116481,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens "
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components "
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -116797,7 +116841,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -117157,7 +117201,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -117545,7 +117589,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -117905,7 +117949,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -119108,7 +119152,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens "
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components "
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -119496,7 +119540,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -119884,7 +119928,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -120244,7 +120288,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -120962,7 +121006,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -121322,7 +121366,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens "
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components "
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -122084,7 +122128,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens "
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components "
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -122935,7 +122979,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens "
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components "
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -123723,7 +123767,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -124083,7 +124127,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -124443,7 +124487,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Comment" "Best fit from the JLCPCB \"Basic\" compontens"
+		(property "Comment" "Best fit from the JLCPCB \"Basic\" components"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")

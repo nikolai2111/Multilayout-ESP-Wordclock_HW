@@ -58,18 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "hole_clearance|149450000|258045000|21bf2acb-7218-4a12-84ef-025f9a8fed20|825c98dd-ec5e-43e2-b664-95bbe3bbf23f",
-        "hole_clearance|149450000|258045000|21bf2acb-7218-4a12-84ef-025f9a8fed20|af6c6bd7-18cd-4477-a72f-374d71b9417e",
-        "hole_clearance|155550000|258045000|b76e677b-c3dc-4c5e-ad3a-9c42fd66c83d|62cecc90-81e2-4059-b47a-8769936b45d9",
-        "hole_clearance|155550000|258045000|b76e677b-c3dc-4c5e-ad3a-9c42fd66c83d|f577cebf-cdc5-4fc7-8b0a-3b71eadcdd6e",
-        "silk_edge_clearance|143390000|30000000|32fd1784-02f8-46a3-a98a-b8c1bb4c1538|103ed947-42ce-495f-8b46-4215d7370277",
-        "silk_edge_clearance|161900000|30000000|32fd1784-02f8-46a3-a98a-b8c1bb4c1538|a5110c48-8069-43f3-aa04-417fcd92c16a",
-        "starved_thermal|141950000|246750000|948ab635-0bb3-449b-a77b-2bee44ecb4c5|e7e9e43b-6bfb-40cb-89f6-af30ef64a89f|B.Cu",
-        "starved_thermal|141950000|248850000|948ab635-0bb3-449b-a77b-2bee44ecb4c5|df7424a1-7c62-41c7-85c2-3a8ecabf47dc|B.Cu",
-        "starved_thermal|144050000|248850000|948ab635-0bb3-449b-a77b-2bee44ecb4c5|005e5196-e9aa-46fd-9728-def9250421d4|B.Cu",
-        "starved_thermal|144937500|247050000|948ab635-0bb3-449b-a77b-2bee44ecb4c5|07198dd8-1dce-4788-89a3-aaece6f8d956|B.Cu"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -87,7 +76,7 @@
         "extra_footprint": "warning",
         "footprint": "error",
         "footprint_symbol_mismatch": "warning",
-        "footprint_type_mismatch": "ignore",
+        "footprint_type_mismatch": "warning",
         "hole_clearance": "error",
         "hole_near_hole": "error",
         "holes_co_located": "warning",
@@ -100,12 +89,12 @@
         "lib_footprint_mismatch": "warning",
         "malformed_courtyard": "error",
         "microvia_drill_out_of_range": "error",
-        "missing_courtyard": "ignore",
+        "missing_courtyard": "error",
         "missing_footprint": "warning",
         "net_conflict": "warning",
-        "npth_inside_courtyard": "ignore",
+        "npth_inside_courtyard": "warning",
         "padstack": "warning",
-        "pth_inside_courtyard": "ignore",
+        "pth_inside_courtyard": "warning",
         "shorting_items": "error",
         "silk_edge_clearance": "warning",
         "silk_over_copper": "warning",
@@ -137,7 +126,7 @@
         "min_resolved_spokes": 2,
         "min_silk_clearance": 0.0,
         "min_text_height": 1.0,
-        "min_text_thickness": 0.153,
+        "min_text_thickness": 0.15,
         "min_through_hole_diameter": 0.15,
         "min_track_width": 0.1,
         "min_via_annular_width": 0.2,
